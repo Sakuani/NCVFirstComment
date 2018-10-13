@@ -1,4 +1,7 @@
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![GitHub](https://img.shields.io/github/license/Sakuani/NCVFirstComment.svg)
+![GitHub release](https://img.shields.io/github/release/Sakuani/NCVFirstComment.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/Sakuani/NCVFirstComment.svg)
+
 # NCVFirstComment
 コメント番号１を獲得したリスナーさんを記録するプラグインです
 
