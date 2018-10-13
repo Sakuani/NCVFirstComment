@@ -8,6 +8,9 @@
 ## Installation
 NCV本体と同階層にあるpluginsフォルダ内へコピーしてください
 
+## Note
+過去に開発・配布していた「1CommentReply」の後継プラグインです
+
 ## Contributing
 1. Fork
 2. Create your feature branch
